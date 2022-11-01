@@ -1,6 +1,6 @@
-# Diffie Hellman
+# Diffie-Hellman
 
-Welcome to Diffie Hellman on Exercism's Python Track.
+Welcome to Diffie-Hellman on Exercism's Python Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
 
 ## Instructions
