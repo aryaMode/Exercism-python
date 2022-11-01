@@ -1,0 +1,7 @@
+def square(number):
+    
+
+
+def total():
+    sum = (1((2**64)))/(2-1)
+    return sum
